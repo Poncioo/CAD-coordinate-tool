@@ -33,5 +33,5 @@ like Leica total stations.
 - Text and MText
 
 ## Screenshots
-![GUI](gui.png)
-![cad](cad.png)
+![GUI](CAD coordinates manager.jpg)
+![cad](CAD coordinates manager-NanoCAD.jpg)
