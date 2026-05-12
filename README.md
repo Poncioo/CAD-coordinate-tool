@@ -31,3 +31,7 @@ like Leica total stations.
 - Polylines (2D and 3D)
 - Blocks / Block references
 - Text and MText
+
+## Screenshots
+![GUI](gui.png)
+![cad](cad.png)
