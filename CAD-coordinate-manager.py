@@ -15,6 +15,7 @@ CAD_COM = {
     "NanoCAD": "NanoCAD.Application",
     "BricsCAD": "BricsCAD.Application",
     "ZWCAD": "ZWCAD.Application",
+    "GstarCAD": "gcad.Application",
 }
 
 DECIMAL_PLACES = 4
