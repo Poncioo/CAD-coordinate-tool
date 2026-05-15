@@ -1,6 +1,6 @@
 # CAD-coordinate-tool
 
-A Python tool to import, export and save XYZ coordinates from CAD software.
+A field-proven (2+ years of operational use) Python tool to import, export and save XYZ coordinates from CAD software. It's main use is to create lists of coordinates from CAD drawings and labels on the drawing itself.
 
 ## Description
 This tool works with AutoCAD and some of its clones (tested on GstarCAD and nanoCAD).
